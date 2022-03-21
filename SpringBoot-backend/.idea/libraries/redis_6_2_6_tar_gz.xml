@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="redis-6.2.6.tar.gz">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../redis-6.2.6.tar.gz.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../redis-6.2.6.tar.gz.zip!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../redis-6.2.6.tar.gz.zip!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$PROJECT_DIR$/../redis-6.2.6.tar.gz.zip!/" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../redis-6.2.6.tar.gz.zip!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$PROJECT_DIR$/../redis-6.2.6.tar.gz.zip!/" recursive="false" />
+    <jarDirectory url="jar://$PROJECT_DIR$/../redis-6.2.6.tar.gz.zip!/" recursive="false" type="SOURCES" />
+  </library>
+</component>

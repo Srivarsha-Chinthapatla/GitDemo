@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Jedis_jar_files">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Jedis_jar_files" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../Jedis_jar_files" recursive="false" />
+  </library>
+</component>
